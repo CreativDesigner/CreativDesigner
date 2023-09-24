@@ -23,3 +23,5 @@
 Meetings & Planning   15 hrs          ███████████████░░░░░░░░░░   60.00 % 
 Developing            8 hrs           ████████░░░░░░░░░░░░░░░░░   32.00 % 
 Sysadmin              2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
